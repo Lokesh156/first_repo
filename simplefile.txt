@@ -1,5 +1,5 @@
- line Every 
+ line Every person 
  line Good 
- line Boy 
+ line Boy girl
  line Deserves 
  line Favor 
